@@ -2,3 +2,7 @@
 A custom 500x500x1000mm corexy based 3d printed targeted at high print speeds to make long boat hulls.
 
 This project is called Project Heron and this 3d printer is the first step in making custom cheap rowing sculls to increase the accessibility of rowing.
+
+The link to the ONSHAPE file is here: https://cad.onshape.com/documents/8a54f08d404c492b3747a67c/w/5da156339a1ec0347d24bc58/e/aa59b49a06f8c4682cd74e8f?renderMode=0&uiState=69d46a990a2a69c833507851
+  // All 3d printable parts can be downloaded in the 3d printer section, the scull section is for the future rowing scull project.
+  // I have spend so much time working on this onshape file, I believe you should be able to see the history of the project in ONSHAPE.
