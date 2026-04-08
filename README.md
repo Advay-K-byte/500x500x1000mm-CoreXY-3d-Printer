@@ -7,7 +7,9 @@ The link to the ONSHAPE file is here: https://cad.onshape.com/documents/8a54f08d
 All 3d printable parts can be downloaded in the 3d printer section, the scull section is for the future rowing scull project.
 I have spend so much time working on this onshape file, I believe you should be able to see the history of the project in ONSHAPE.
 
-
 The link for BOM is here: https://docs.google.com/spreadsheets/d/1OajUeyvoyNQ-fIqRMZ1xsU3tNFYXr3aLfUK8oiJ_pcs/edit?usp=sharing 
 Please keep in mind this BOM includes current prices across online websites, as well as some local stores.
 Many parts are salvaged from an old 3d printer, so their prices are not listed, but all available specs are.
+
+Current Printer Design:
+<img width="982" height="1032" alt="Screenshot 2026-04-06 222025" src="https://github.com/user-attachments/assets/d937895a-2f5f-4856-8674-dbd56f96f0fd" />
